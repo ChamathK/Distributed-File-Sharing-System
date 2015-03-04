@@ -7,12 +7,6 @@ import java.util.Random;
 import java.util.Set;
 
 public class FileNames {
-
-	public static void main() {
-		List<String> list = selectRandomfiles();
-		System.out.println(list);
-	}
-
 	
 	/**
 	 * Load file names to be distributed among nodes
